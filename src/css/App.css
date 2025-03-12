@@ -68,7 +68,7 @@
 
 .card-list li::before {
     content: "";
-    background: url('../images/icon-list.svg') no-repeat center center;
+    background: url('/images/icon-list.svg') no-repeat center center;
     background-size: contain;
     width: 20px;
     height: 20px;

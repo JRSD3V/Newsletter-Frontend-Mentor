@@ -33,8 +33,8 @@ const Form = ({ getEmail }) => {
         </div>
         <div className="card-right">
             <picture>
-              <source srcSet="./images/illustration-sign-up-mobile.svg" media="(max-width: 865px)" />
-              <img src="./images/illustration-sign-up-desktop.svg" alt="Sign-up illustration" className="card-img" />
+              <source srcSet="/images/illustration-sign-up-mobile.svg" media="(max-width: 865px)" />
+              <img src="/images/illustration-sign-up-desktop.svg" alt="Sign-up illustration" className="card-img" />
             </picture> 
         </div>
       </div>
