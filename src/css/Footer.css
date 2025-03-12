@@ -1,0 +1,12 @@
+@import url('./Variables.css');
+
+#footerWrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--blue-800);
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem;
+    z-index: 2;
+}
